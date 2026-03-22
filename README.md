@@ -1,1 +1,2 @@
-# Streamlit
+# execute
+#   streamlit run <filename>
